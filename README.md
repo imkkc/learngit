@@ -1,3 +1,5 @@
+把本地dev8 push到origin的master
+test dev 8
 # learngit
 11111111
 add new line
@@ -8,3 +10,5 @@ dev2
 pizza user name
 dev7
 dev8
+中文啥样子的，实验的我快要睡着了
+git push origin dev8 与git push origin dev8 -u 不一样
