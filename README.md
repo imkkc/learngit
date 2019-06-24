@@ -1,7 +1,6 @@
 把本地dev8 push到origin的master
 test dev 8
 # learngit
-11111111
 add new line
 pizza
 pizza 2
